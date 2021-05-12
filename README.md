@@ -10,6 +10,7 @@ Here is location of TFOD files:
 
 https://drive.google.com/drive/folders/1fqTX5xYVJpeSL66PsWI517fp6-Rhqnhu?usp=sharing
 
-If you are looking for training folder (after training) here is location:
+If you are looking for inferance graph (after training) here is location:
 
-https://drive.google.com/drive/folders/1R3A4_yNJVn9dAez4tT8NRZ26vJqm88J5?usp=sharing
+https://drive.google.com/drive/folders/1IbOCA2svE7diikq1DzIl1RIB2hUQlZKm?usp=sharing
+
